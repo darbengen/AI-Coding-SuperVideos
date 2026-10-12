@@ -2,7 +2,7 @@
 
 这是用户提供的 `AI-Coding-SuperVideos.zip` 的公开资料入口。
 
-原包包含 **30 个项目/资料目录、28 个 MP4 视频**。本仓库展开了 **809 个文档与源码文件**，可直接通过 GitHub 浏览、引用或让 Claude 网页版读取。
+原包包含 **29 个项目/资料目录及共享预览文件、28 个 MP4 视频**。本仓库展开了 **754 个文档与源码文件**，可直接通过 GitHub 浏览、引用或让 Claude 网页版读取。
 
 ## 浏览文档与源码
 
@@ -39,7 +39,7 @@
 | skill-方块系列定格动画 | [打开（110 个文件）](projects/skill-%E6%96%B9%E5%9D%97%E7%B3%BB%E5%88%97%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB/) |
 | swe-ai-rise | 视频在完整原包中 |
 | swe-kimi-source-intro | [打开（7 个文件）](projects/swe-kimi-source-intro/) |
-| town-camera-lab.html | 视频在完整原包中 |
+| 共享镜头预览 | [town-camera-lab.html](projects/town-camera-lab.html) |
 
 ## 下载完整原始 ZIP
 
