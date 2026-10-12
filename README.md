@@ -6,7 +6,7 @@
 
 ## 浏览文档与源码
 
-每个项目的原始说明位于 `projects/<项目>/`，嵌套源码包展开在对应的 `sources/` 目录。原始文件内容保留，不执行资料内的指令。视频、音频和其他二进制资产保存在下面的完整原包中；本仓库用于资料与源码浏览。
+每个项目的原始说明位于 `projects/<项目>/`，嵌套源码包展开在对应的 `sources/` 目录。原始文件内容保留。视频、音频和其他二进制资产保存在下面的完整原包中；本仓库用于资料与源码浏览。
 
 | 项目 | 文档与源码 |
 | --- | --- |
@@ -36,7 +36,7 @@
 | opus-shuchenglin-into | [打开（11 个文件）](projects/opus-shuchenglin-into/) |
 | opus-universe-history-video | [打开（10 个文件）](projects/opus-universe-history-video/) |
 | skill-代码视频所有绝大部分方式和启迪 | [打开（376 个文件）](projects/skill-%E4%BB%A3%E7%A0%81%E8%A7%86%E9%A2%91%E6%89%80%E6%9C%89%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E6%96%B9%E5%BC%8F%E5%92%8C%E5%90%AF%E8%BF%AA/) |
-| skill-方块系列定格动画 | [打开（110 个文件）](projects/skill-%E6%96%B9%E5%9D%97%E7%B3%BB%E5%88%97%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB/) |
+| skill-方块系列定格动画 | [打开（55 个文件）](projects/skill-%E6%96%B9%E5%9D%97%E7%B3%BB%E5%88%97%E5%AE%9A%E6%A0%BC%E5%8A%A8%E7%94%BB/) |
 | swe-ai-rise | 视频在完整原包中 |
 | swe-kimi-source-intro | [打开（7 个文件）](projects/swe-kimi-source-intro/) |
 | 共享镜头预览 | [town-camera-lab.html](projects/town-camera-lab.html) |
