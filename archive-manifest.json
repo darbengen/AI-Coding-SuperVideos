@@ -1,0 +1,396 @@
+{
+  "original_zip": {
+    "name": "AI-Coding-SuperVideos.zip",
+    "bytes": 2566359331,
+    "sha256": "67d3dfb90906863289c4f1b6e81ebce55ee12f90683486a2ef29cd6eef3e809e"
+  },
+  "parts": [
+    {
+      "name": "AI-Coding-SuperVideos.zip.001",
+      "bytes": 1400000000,
+      "sha256": "0efb20224e44f796c45f804284d73f00b59aa92212d99d83fb9cc5df0b601efa"
+    },
+    {
+      "name": "AI-Coding-SuperVideos.zip.002",
+      "bytes": 1166359331,
+      "sha256": "34dde4132fec24f5d8cb8b91d2dbbb774964285482c887f3276f557e34bdc52b"
+    }
+  ],
+  "files_in_original_zip": [
+    {
+      "path": "gpt-15-style-ai-beyond-generation/AI_BEYOND_GENERATION_1080p.mp4",
+      "bytes": 52870272,
+      "crc32": "1ce18647"
+    },
+    {
+      "path": "gpt-15-style-ai-beyond-generation/AI_BEYOND_GENERATION_Project.zip",
+      "bytes": 84173760,
+      "crc32": "e2201765"
+    },
+    {
+      "path": "gpt-mid-autumn-for-my-dg03/Moon_Letter_Interactive.html",
+      "bytes": 960851,
+      "crc32": "6533d0f4"
+    },
+    {
+      "path": "gpt-mid-autumn-for-my-dg03/Moon_Letter_MidAutumn_1080p.mp4",
+      "bytes": 10899587,
+      "crc32": "b33e4dce"
+    },
+    {
+      "path": "gpt-mid-autumn-for-my-dg03/月光替你亮着灯-source.zip",
+      "bytes": 1662213,
+      "crc32": "22694dca"
+    },
+    {
+      "path": "gpt-mid-autumn-general-video/gpt-MidAutumn_Final_60s_1080p60.mp4",
+      "bytes": 29332124,
+      "crc32": "c167d31e"
+    },
+    {
+      "path": "gpt-mid-autumn-general-video/MidAutumn_Final_60s_Source.zip",
+      "bytes": 12178259,
+      "crc32": "c49d1318"
+    },
+    {
+      "path": "gpt-mid-autumn-general-video/把日子，慢慢过圆代码视频-CoExp.md",
+      "bytes": 46236,
+      "crc32": "a340159a"
+    },
+    {
+      "path": "gpt-universe-30-change/COSMOS_30_STYLES_72s_1080p.mp4",
+      "bytes": 20212569,
+      "crc32": "89834463"
+    },
+    {
+      "path": "gpt-universe-30-change/COSMOS_Source_and_Storyboard.zip",
+      "bytes": 14561199,
+      "crc32": "2bb7a45e"
+    },
+    {
+      "path": "gpt-universe-30-change/COSMOS从未知到寂静代码视频-CoExp.md",
+      "bytes": 45508,
+      "crc32": "5511c2ee"
+    },
+    {
+      "path": "kimi-ai-beat-sync/ai-beat-sync-src.zip",
+      "bytes": 15926489,
+      "crc32": "7e480cf9"
+    },
+    {
+      "path": "kimi-ai-beat-sync/ai-beat-sync.mp4",
+      "bytes": 15764101,
+      "crc32": "1b49531f"
+    },
+    {
+      "path": "kimi-ai-beat-sync/AI觉醒代码视频-CoExp.md",
+      "bytes": 29731,
+      "crc32": "b914cf3e"
+    },
+    {
+      "path": "opus-1037-hust-story/1037_MG试片.mp4",
+      "bytes": 26504534,
+      "crc32": "f4593817"
+    },
+    {
+      "path": "opus-1037-hust-story/HUST宣传代码MG视频-CoExp.md",
+      "bytes": 23378,
+      "crc32": "a7c922ee"
+    },
+    {
+      "path": "opus-age-of-intelligence/AGE_OF_INTELLIGENCE_720p60_share.mp4",
+      "bytes": 29134776,
+      "crc32": "4957f595"
+    },
+    {
+      "path": "opus-age-of-intelligence/智能时代-The_Age_of_Intelligence-source.zip",
+      "bytes": 9727754,
+      "crc32": "51d232ce"
+    },
+    {
+      "path": "opus-age-of-intelligence/智能时代代码视频-CoExp.md",
+      "bytes": 47456,
+      "crc32": "f13d5fbf"
+    },
+    {
+      "path": "opus-broken-reround/碎月重圆_AE级特效_CoExp.md",
+      "bytes": 37636,
+      "crc32": "2b46549b"
+    },
+    {
+      "path": "opus-broken-reround/碎月重圆_MG动画.mp4",
+      "bytes": 28311296,
+      "crc32": "34844a5f"
+    },
+    {
+      "path": "opus-claude-intro-with-15-way/claude_intro_源码.zip",
+      "bytes": 38210,
+      "crc32": "9749ebea"
+    },
+    {
+      "path": "opus-claude-intro-with-15-way/Claude_自我介绍_15种画风.mp4",
+      "bytes": 38131234,
+      "crc32": "84d1075f"
+    },
+    {
+      "path": "opus-F12-teaching/DevTools-in-60-Seconds-1080p.mp4",
+      "bytes": 26624677,
+      "crc32": "04bb36b3"
+    },
+    {
+      "path": "opus-F12-teaching/DevTools-in-60-Seconds代码视频-CoExp.md",
+      "bytes": 26496,
+      "crc32": "c6dafd60"
+    },
+    {
+      "path": "opus-F12-teaching/F12-Field-Guide-source.zip",
+      "bytes": 555272,
+      "crc32": "cfee2e1b"
+    },
+    {
+      "path": "opus-F12-teaching/F12-Field-Guide.html",
+      "bytes": 286872,
+      "crc32": "1d9954ab"
+    },
+    {
+      "path": "opus-factory-safety-videos/dingge-source.tgz",
+      "bytes": 99565,
+      "crc32": "8e3995f8"
+    },
+    {
+      "path": "opus-factory-safety-videos/dingge_1440p60fps.mp4",
+      "bytes": 566343355,
+      "crc32": "0d301415"
+    },
+    {
+      "path": "opus-factory-safety-videos/工地安全定格代码视频-CoExp.md",
+      "bytes": 31560,
+      "crc32": "52a42f3b"
+    },
+    {
+      "path": "opus-hust-read-join-video-v1/华中大读书会_慢下来.mp4",
+      "bytes": 20804693,
+      "crc32": "3785e3dd"
+    },
+    {
+      "path": "opus-hust-read-join-video-v1/华中大读书会_慢下来_代码版.html",
+      "bytes": 1122918,
+      "crc32": "34306c6b"
+    },
+    {
+      "path": "opus-hust-read-join-video-v1/华中大读书会_慢下来_源码.zip",
+      "bytes": 851635,
+      "crc32": "55301de1"
+    },
+    {
+      "path": "opus-hust-read-join-video-v1/华中大读书会《慢下来》代码视频-CoExp.md",
+      "bytes": 40517,
+      "crc32": "b454841e"
+    },
+    {
+      "path": "opus-introduction-video-xuanlan/XuanLan-PocketWebShell-promo-1080p60-share.mp4",
+      "bytes": 28285235,
+      "crc32": "9056b597"
+    },
+    {
+      "path": "opus-introduction-video-xuanlan/玄览PocketWebShell宣传片代码视频-CoExp.md",
+      "bytes": 51769,
+      "crc32": "8d429ee1"
+    },
+    {
+      "path": "opus-mid-autumn-for-my-dg01/中秋·给学姐.mp4",
+      "bytes": 6000196,
+      "crc32": "41d3a44a"
+    },
+    {
+      "path": "opus-mid-autumn-for-my-dg01/中秋给学姐的温情视频-CoExp.md",
+      "bytes": 15748,
+      "crc32": "42ec7dd7"
+    },
+    {
+      "path": "opus-mid-autumn-for-my-dg02/月光替你亮着灯_学姐中秋快乐.mp4",
+      "bytes": 21798041,
+      "crc32": "56199dff"
+    },
+    {
+      "path": "opus-mid-autumn-for-my-dg02/月光替你亮着灯代码视频-CoExp.md",
+      "bytes": 57948,
+      "crc32": "d19aff2c"
+    },
+    {
+      "path": "opus-mid-autumn-genergal-videos/mid-autumn.mp4",
+      "bytes": 28970667,
+      "crc32": "221f240c"
+    },
+    {
+      "path": "opus-mid-autumn-genergal-videos/中秋代码介绍视频-CoExp.md",
+      "bytes": 36794,
+      "crc32": "08950664"
+    },
+    {
+      "path": "opus-mid-autumn-highschool-videos/共此时_预览版_720p.mp4",
+      "bytes": 28065764,
+      "crc32": "5165daf5"
+    },
+    {
+      "path": "opus-mid-autumn-highschool-videos/共此时代码视频-CoExp.md",
+      "bytes": 57637,
+      "crc32": "8c8f2a7c"
+    },
+    {
+      "path": "opus-oneink/一畫_Opus5.5_水墨书法.mp4",
+      "bytes": 28703719,
+      "crc32": "fffbaded"
+    },
+    {
+      "path": "opus-oneink/一畫_源代码.zip",
+      "bytes": 18517990,
+      "crc32": "d85f4163"
+    },
+    {
+      "path": "opus-production-video-ai-phase-skill/ai-phase-skill-intro.mp4",
+      "bytes": 716175326,
+      "crc32": "c5a8761d"
+    },
+    {
+      "path": "opus-production-video-ai-phase-skill/Phase-Gate升维宣传片代码视频-CoExp.md",
+      "bytes": 59976,
+      "crc32": "cffb502f"
+    },
+    {
+      "path": "opus-production-video-protocom-intro/promo-src.zip",
+      "bytes": 13744183,
+      "crc32": "6509346d"
+    },
+    {
+      "path": "opus-production-video-protocom-intro/protocom-intro.mp4",
+      "bytes": 256880639,
+      "crc32": "7e4d5bf5"
+    },
+    {
+      "path": "opus-production-video-protocom-intro/protocom宣传片代码视频-CoExp.md",
+      "bytes": 65790,
+      "crc32": "667f1bd0"
+    },
+    {
+      "path": "opus-production-video-skill-hub/Skills Hub宣传片代码视频-CoExp.md",
+      "bytes": 36456,
+      "crc32": "80352231"
+    },
+    {
+      "path": "opus-production-video-skill-hub/skills-hub-promo-source.zip",
+      "bytes": 74200,
+      "crc32": "26a3ee5c"
+    },
+    {
+      "path": "opus-production-video-skill-hub/skills-hub-promo.mp4",
+      "bytes": 48329997,
+      "crc32": "7bb72a1e"
+    },
+    {
+      "path": "opus-production-video-studysolo/studysolo-promo -v1.1.mp4",
+      "bytes": 59954288,
+      "crc32": "43fb4124"
+    },
+    {
+      "path": "opus-production-video-studysolo/StudySolo宣传片代码视频-CoExp.md",
+      "bytes": 39500,
+      "crc32": "f97ae3c0"
+    },
+    {
+      "path": "opus-production-video-ys-blog/yusheng-blog.mp4",
+      "bytes": 22600297,
+      "crc32": "c8b0d7bf"
+    },
+    {
+      "path": "opus-production-video-ys-blog/羽升集宣传片代码视频-CoExp.md",
+      "bytes": 44292,
+      "crc32": "6545e1c6"
+    },
+    {
+      "path": "opus-shuchenglin-into/树成林宣传片-工程源码.zip",
+      "bytes": 26123,
+      "crc32": "960fe400"
+    },
+    {
+      "path": "opus-shuchenglin-into/树成林宣传片_60s.mp4",
+      "bytes": 26126092,
+      "crc32": "a6326969"
+    },
+    {
+      "path": "opus-shuchenglin-into/树成林展示视频代码卡点宣传片-方法论-CoExp.md",
+      "bytes": 29834,
+      "crc32": "6c540c65"
+    },
+    {
+      "path": "opus-universe-history-video/code_cosmos_source.zip",
+      "bytes": 40367,
+      "crc32": "537edcaf"
+    },
+    {
+      "path": "opus-universe-history-video/code_cosmos_stopmotion.mp4",
+      "bytes": 27321187,
+      "crc32": "be2b22ac"
+    },
+    {
+      "path": "opus-universe-history-video/宇宙变换-CoExp.md",
+      "bytes": 32840,
+      "crc32": "a6252f63"
+    },
+    {
+      "path": "skill-代码视频所有绝大部分方式和启迪/code-videos-path.zip",
+      "bytes": 516414,
+      "crc32": "ec9563ae"
+    },
+    {
+      "path": "skill-代码视频所有绝大部分方式和启迪/VIBEMOTION-workstation.html",
+      "bytes": 2077468,
+      "crc32": "eeccb10d"
+    },
+    {
+      "path": "skill-代码视频所有绝大部分方式和启迪/VibeMotion-本地版.html",
+      "bytes": 182410,
+      "crc32": "879a7458"
+    },
+    {
+      "path": "skill-方块系列定格动画/stop-motion-3d-intro-web.mp4",
+      "bytes": 22212559,
+      "crc32": "24fc402d"
+    },
+    {
+      "path": "skill-方块系列定格动画/stop-motion-3d.skill",
+      "bytes": 987529,
+      "crc32": "10ce8f5e"
+    },
+    {
+      "path": "skill-方块系列定格动画/stop-motion-3d.zip",
+      "bytes": 987529,
+      "crc32": "10ce8f5e"
+    },
+    {
+      "path": "swe-ai-rise/kimi_ai_rise_v2.mp4",
+      "bytes": 122210883,
+      "crc32": "50aee89e"
+    },
+    {
+      "path": "swe-kimi-source-intro/kimi_film_1080p.mp4",
+      "bytes": 82835077,
+      "crc32": "ac8c2aea"
+    },
+    {
+      "path": "swe-kimi-source-intro/kimi_film_source.zip",
+      "bytes": 21110,
+      "crc32": "0d1d9535"
+    },
+    {
+      "path": "swe-kimi-source-intro/月之暗面KIMI介绍代码视频-CoExp.md",
+      "bytes": 17081,
+      "crc32": "7e8964a0"
+    },
+    {
+      "path": "town-camera-lab.html",
+      "bytes": 228303,
+      "crc32": "18ffd30a"
+    }
+  ]
+}
